@@ -1,0 +1,21 @@
+"*":
+  "autocomplete-python":
+    useKite: false
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 16
+    tabLength: 4
+  "exception-reporting":
+    userId: "898aad25-d797-42ba-a15f-847df1b59906"
+  "ide-python":
+    pylsPlugins:
+      flake8:
+        enabled: true
+      pydocstyle:
+        enabled: true
+      pylint:
+        enabled: true
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false
